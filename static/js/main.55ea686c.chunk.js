@@ -1,0 +1,2 @@
+(this.webpackJsonpgamejam2021=this.webpackJsonpgamejam2021||[]).push([[0],{10:function(n,t,e){},11:function(n,t,e){"use strict";e.r(t);var c=e(2),i=e(0),o=e.n(i),a=e(3),u=e.n(a);e(9),e.p,e(10);var r=function(){},s=function(n){n&&n instanceof Function&&e.e(3).then(e.bind(null,12)).then((function(t){var e=t.getCLS,c=t.getFID,i=t.getFCP,o=t.getLCP,a=t.getTTFB;e(n),c(n),i(n),o(n),a(n)}))};u.a.render(Object(c.jsx)(o.a.StrictMode,{children:Object(c.jsx)(r,{})}),document.getElementById("root")),s()},9:function(n,t,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.55ea686c.chunk.js.map
