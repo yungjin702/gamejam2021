@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec085ca7.chunk.css",
+    "main.css": "/static/css/main.fece036a.chunk.css",
     "main.js": "/static/js/main.51deba8a.chunk.js",
     "main.js.map": "/static/js/main.51deba8a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.803255e2.js",
@@ -12,7 +12,7 @@
     "static/js/3.af9b6e43.chunk.js.map": "/static/js/3.af9b6e43.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.acc986e7.chunk.css.map": "/static/css/2.acc986e7.chunk.css.map",
-    "static/css/main.ec085ca7.chunk.css.map": "/static/css/main.ec085ca7.chunk.css.map",
+    "static/css/main.fece036a.chunk.css.map": "/static/css/main.fece036a.chunk.css.map",
     "static/js/2.8c0735b1.chunk.js.LICENSE.txt": "/static/js/2.8c0735b1.chunk.js.LICENSE.txt",
     "static/media/Slider.css": "/static/media/Tablet_Game_Exhibit.60f2ee18.svg",
     "static/media/styles.css": "/static/media/revicons.e8746a62.woff"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.803255e2.js",
     "static/css/2.acc986e7.chunk.css",
     "static/js/2.8c0735b1.chunk.js",
-    "static/css/main.ec085ca7.chunk.css",
+    "static/css/main.fece036a.chunk.css",
     "static/js/main.51deba8a.chunk.js"
   ]
 }
