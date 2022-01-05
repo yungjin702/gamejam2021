@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 2021 게임 박람회 홈폐이지 제작
 
 ## Available Scripts
 
